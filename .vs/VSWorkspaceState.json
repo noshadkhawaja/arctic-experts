@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\C:\\Users\\isd\\Source\\Repos\\arctic-experts",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
