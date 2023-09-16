@@ -47743,6 +47743,10 @@ a:hover, a:focus {
   background-color: rgba(230, 68, 51, 0.9) !important;
 }
 
+.g-bg-primary-dark-v1-opacity-0_7--hover:hover {
+    background-color: rgba(230, 68, 51, 0.7) !important;
+}
+
 .g-theme-bg-gray-dark-v1 {
   background-color: #383339 !important;
 }
