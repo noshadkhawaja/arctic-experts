@@ -47771,6 +47771,14 @@ a:hover, a:focus {
   background-color: #3e393f !important;
 }
 
+.g-theme-bg-gray-dark-v3 {
+    background-color: #555555 !important;
+}
+
+.g-theme-bg-gray-dark-v3--hover:hover {
+    background-color: #555555 !important;
+}
+
 .g-theme-bg-gray-light-v4 {
   background-color: #f8f8f8 !important;
 }
