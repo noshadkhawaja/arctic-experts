@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\img",
     "\\assets\\vendor"
   ],
+  "SelectedNode": "\\assets\\img",
   "PreviewInSolutionExplorer": false
 }
